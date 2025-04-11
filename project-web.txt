@@ -3,3 +3,5 @@ menggunakan php
 databse laragon php my admin
 bosstrap
 css manual 
+menggunakan github
+js 
