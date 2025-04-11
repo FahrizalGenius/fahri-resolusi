@@ -3,5 +3,7 @@ menggunakan php
 databse laragon php my admin
 bosstrap
 css manual 
+menggunakan tailwind
 menggunakan github
 js 
+
