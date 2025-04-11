@@ -3,3 +3,5 @@ resolusi untuk kedepannnya
 - habis kuliah langsung kerja/atau mencari kerja
 - menjadi programmer 
 - membuat project untuk kuliah 
+- belajar git dan github
+- memahami cara dari vcs
