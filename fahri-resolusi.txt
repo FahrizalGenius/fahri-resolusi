@@ -5,3 +5,5 @@ resolusi untuk kedepannnya
 - membuat project untuk kuliah 
 - belajar git dan github
 - memahami cara dari vcs
+
+bismillah konsisten
